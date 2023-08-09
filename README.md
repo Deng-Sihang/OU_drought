@@ -1,2 +1,2 @@
 # OU_drought
-The original data and analysis code for the OU drought paper
+The original data and R codes for statistical analyses of the OU drought paper
