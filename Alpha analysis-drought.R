@@ -135,7 +135,7 @@ for(i in 1:ncol(divindex))
 }
 
 output1 <- as.data.frame(t(output1))
-write.csv(output1,"Allnetwork-LMM-Permutation.csv")
+write.csv(output1,"Allalpha-LMM-Permutation.csv")
 
 ### Yearly impact of drought on fungal alpha diversity -------------------
 ### Effect size
